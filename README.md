@@ -4,7 +4,7 @@ I am a **Svelte & SvelteKit expert** (since Svelte 2.0), also proficient in **Re
 
 I graduated **Magna Cum Laude (3.96 GPA)** from Brigham Young Idaho with a **Bachelor of Applied Science in Web Development**, and I have honed my skills working in **small, dynamic teams** where collaboration and adaptability are key.
 
-Currently, I lead **tech initiatives at the Elevatus Foundation**, fighting child labor in Madagascar and using technology to create real social impact.
+Currently, I am a **full-stack developer** for **Ensombl**, working with **Svelte 5** and **NestJS**, and I also lead **tech initiatives** at the **Elevatus Foundation**, fighting child labor in Madagascar and using technology to create real social impact.
 
 I love turning ideas into **user-friendly, scalable applications** that deliver tangible results.
 
