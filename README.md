@@ -11,7 +11,7 @@ I love turning ideas into **user-friendly, scalable applications** that deliver 
 Feel free to connect with me on Discord: **[@sanctus_omnus](https://discord.com/users/596300182317170709)**
 
 ## The Stack I'm the most familiar with  
-![My Stack](https://skillicons.dev/icons?i=svelte,supabase,ts,js,html,css,tailwind,git)
+![My Stack](https://skillicons.dev/icons?i=svelte,nestjs,supabase,ts,js,tailwind,git)
 
 ## Other tech I enjoy  
 ![Other Tech](https://skillicons.dev/icons?i=angular,react,vue,firebase,mongodb,sass,python)
