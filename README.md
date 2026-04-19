@@ -1,17 +1,70 @@
-# Hi, I'm Julien Connault — French Full-Stack Web Developer
+# Hi, I'm Julien Connault — Full-Stack Developer
 
-I am a **Svelte & SvelteKit expert** (since Svelte 2.0), also proficient in **React, Angular, Vue, Next.js & NestJS**, building **modern, maintainable web applications** from front to back.
+Full-stack web developer focused on building **reliable, production-ready applications** with modern JavaScript ecosystems.
 
-I graduated **Magna Cum Laude (3.96 GPA)** from Brigham Young Idaho with a **Bachelor of Applied Science in Web Development**, and I have honed my skills working in **small, dynamic teams** where collaboration and adaptability are key.
+I specialize in **Svelte / SvelteKit**, and I also work across **React, Angular, Vue, Next.js, and NestJS**, allowing me to adapt to different technical environments and team structures.
 
-Currently, I am a **full-stack developer** for **Ensombl**, working with **Svelte 5**, **Next.js**and **NestJS**, and I also lead **tech initiatives** at the **Elevatus Foundation**, fighting child labor in Madagascar and using technology to create real social impact.
+I currently work at **Ensombl** as a full-stack developer, where I operate in a highly autonomous product environment. I am expected to understand business problems without detailed specifications, propose solutions, and deliver end-to-end features — from backend architecture to frontend implementation and infrastructure setup.
 
-I love turning ideas into **user-friendly, scalable applications** that deliver tangible results.
+I also contribute to the **Elevatus Foundation**, where I help build internal tools supporting education and social impact programs in Madagascar.
 
-Feel free to connect with me on Discord: **[@sanctus_omnus](https://discord.com/users/596300182317170709)**
+---
 
-## The Stack I'm the most familiar with  
+## Current Role — Ensombl
+
+At Ensombl, I work with a high level of autonomy and ownership.
+
+My responsibilities include:
+- Translating unclear product requirements into technical solutions
+- Designing and building full-stack features independently
+- Taking initiatives and iterating based on stakeholder feedback
+- Owning features from architecture to production deployment
+
+This environment emphasizes **initiative, product thinking, and end-to-end responsibility**.
+
+---
+
+## Core Stack
+
 ![My Stack](https://skillicons.dev/icons?i=svelte,nestjs,supabase,ts,js,tailwind,git)
 
-## Other tech I enjoy  
+## Additional Experience
+
 ![Other Tech](https://skillicons.dev/icons?i=angular,react,vue,firebase,mongodb,sass,python)
+
+---
+
+## Product & UX Focus
+
+I pay particular attention to user experience and interface clarity.
+
+I focus on building interfaces where:
+- actions are intuitive without explanation
+- unnecessary steps and clicks are reduced
+- performance and perceived speed are optimized
+- users can naturally understand where to go and what to do
+
+---
+
+## What I Focus On
+
+- Full-stack application development
+- Product-driven feature design
+- Internal tools and operational systems
+- Clean and maintainable architectures
+- Small, fast-moving team environments
+- Practical use of modern tooling, including AI-assisted workflows
+
+---
+
+## Selected Work
+
+- **Certless** — Identity verification and authentication platform (SDK, RBAC, billing, secure embeds)
+- **Metastate** — Digital identity and governance tools (KYC, identity wallet, data visualization systems)
+- **The Bannon Report** — Security scanning and reporting platform with automated analysis workflows
+
+---
+
+## Contact
+
+Discord: [@sanctus_omnus](https://discord.com/users/596300182317170709)
